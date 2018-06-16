@@ -1,0 +1,19 @@
+    cat -n  ~/.zshrc | grep "plugins" >log.txt
+    57	# Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
+    58	# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
+    59	# Example format: plugins=(rails git textmate ruby lighthouse)
+    60	# Add wisely, as too many plugins slow down shell startup.
+    61	plugins=(
+    88	# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+	 cat -n  ~/.zshrc | grep "theme" >>log.txt
+     7	# Set name of the theme to load. Optionally, if you set this to "random"
+     8	# it'll load a random theme each time that oh-my-zsh is loaded.
+    12	# Set list of themes to load
+    14	# cause zsh load theme from this variable instead of
+    15	# looking in ~/.oh-my-zsh/themes/
+    88	# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+	==============================
+	switch between bash & zsh
+	exec bash=>bash
+	exec zsh =>zsh
+	 

@@ -1,0 +1,26 @@
+====================================================
+	以Lamp(Linux, Apache, MySQL, PHP.)架起server
+	1. sudo nano /var/www/html/info.php 
+	貼上這行
+	<?php phpinfo(); ?>
+	2.http://your_ip_address/info.php =>your server
+=======================================================
+	 stop LAMP
+	 LAMP is not a service but an acronym for Linux, Apache, MySQL, PHP. 
+	 You can stop 2 components of a LAMP stack: apache and mysql.
+	 
+	 (for apache)
+1. stop
+	$ systemctl stop apache2.service 
+2. restart	
+	$/etc/init.d/apache2 restart
+3. check status
+	$ sudo systemctl status apache2
+	 
+	 (for mysql)
+1. stop mysql
+	 $ systemctl stop mysqld
+2. restart
+	 $ service mysql restart
+3. check status
+	 $ sudo service mysql status

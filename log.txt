@@ -1,0 +1,34 @@
+* b16eab132a89072950455e8a92d76cbe2846ac8f  On branch master  Your branch is up to date with 'origin/master'.
+* 50a96bd355d89bf2adc21d76bfd608012e786dcf  On branch master  Your branch is ahead of 'origin/master' by 1 commit.    
+* 77a0c8447e593524be62e1c463c097b1f9985e28  On branch master  Your branch is up to date with 'origin/master'.
+* 9f593bce19d963d4c0ee96708a77062c1991ccdf  On branch master  Your branch is up to date with 'origin/master'.
+* 16e4a293e4de399e8f58ffffabcac5494e032ea6  On branch master  Your branch is up to date with 'origin/master'.
+*   f370535832f7fccb96fd2554ace47d90f46c2b21 Merge branch 'master' of https://github.com/tigerjoson/my_note
+|\  
+| * b25b08faf516b49917b6e410381c3897feb0c5e6 Add files via upload
+* | ef6fad1297a0f2e417d5bd2652a896dcb0859d9e  On branch master  Your branch is ahead of 'origin/master' by 1 commit.    
+* | f27ef9b45cd197d51be7e6f39b6979c86bc5b6c9  On branch master  Your branch is up to date with 'origin/master'.
+|/  
+* 0d6b47a776a921ff4f74035c99c07b8f31f1ec4d  On branch master  Your branch is ahead of 'origin/master' by 1 commit.   
+* 9872fd326f120871965e79d26e969630efb26a70  On branch master  Your branch is up to date with 'origin/master'.
+* fb48109b9f33fcc3866469bc50a9d87940d78af9  On branch master  Your branch is up to date with 'origin/master'.
+*   2f7d90f15cc34b5ba7c3eddf7be00cb16b9657cd Merge branch 'master' of https://github.com/tigerjoson/my_note
+|\  
+| * 81958c591f53c9feb693eef67228c9301a7e1e58 Delete _config.yml
+| * 0ef576a38a2165c66eebb3c56d772eb73300519d Update issue templates
+| * b14d1761b197e77527242a2ebf266571dc2e65ac Set theme jekyll-theme-slate
+* | f63c9e50557683c15d1bb052d7e3f949ff4d358b  On branch master  Your branch is ahead of 'origin/master' by 2 commits.   
+* | 188dbb918b0b53f0ae393fb5775d515c0e755396  On branch master  Your branch is ahead of 'origin/master' by 1 commit.   
+* | dba0172d754ec8165b8c37b3dcaf118af0a941a7  On branch master  Your branch is up to date with 'origin/master'.
+|/  
+* f9f9185c58ce38d42965544dcbefbacee705578d  On branch master  Your branch is up to date with 'origin/master'.
+* 51f4580c55befc01ef32ec4f8f48dbaf9c8917bb  On branch master  Your branch is up to date with 'origin/master'.
+* 7fd172533b43f949c0005562c88b0b76d98f21a1 Add files via upload
+* bb3c5fbfb4c2a20ebf53ce572ae86937a07c1058 Update git_command_note.txt
+* 37470f1b66a3710dda9c8b0433c1fd34c6aa3d0f  On branch master  Your branch is up to date with 'origin/master'.
+* be2804ea5c91c4dcbd60ea4cf5de1d8b37127a04  On branch master  Your branch is up to date with 'origin/master'.
+* 0e9da19937a5238f1969e58d4d53304ca2e09864  On branch master  Your branch is up to date with 'origin/master'.
+* 116fa32ed08e719cc1ff7b7853824fb210c76b22  On branch master  Your branch is ahead of 'origin/master' by 2 commits.   
+* 5eb533cdc85c4fcfe890615450a4bc12ccad3285 On branch master Your branch is ahead of 'origin/master' by 1 commit.  
+* 883c47c95cd025b2c4dd5d0d6d5c57fd5e68d025  On branch master  Your branch is up to date with 'origin/master'.
+* c1492769fa0ab8b966ae03da32dc8243ed0f076f  On branch master
