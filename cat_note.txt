@@ -1,0 +1,21 @@
+命令參數：
+
+-A, --show-all           等價於 -vET
+
+-b, --number-nonblank    對非空輸出行編號
+
+-e                       等價於 -vE
+
+-E, --show-ends          在每行結束處顯示 $
+
+-n, --number     對輸出的所有行編號,由1開始對所有輸出的行數編號
+
+-s, --squeeze-blank  有連續兩行以上的空白行，就代換為一行的空白行 
+
+-t                       與 -vT 等價
+
+-T, --show-tabs          將跳格字元顯示為 ^I
+
+-u                       (被忽略)
+
+-v, --show-nonprinting   使用 ^ 和 M- 引用，除了 LFD 和 TAB 之外
