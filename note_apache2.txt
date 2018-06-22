@@ -1,4 +1,4 @@
-1. /var/www/html/index.html
+1. /var/www/html/index.html 
 
 2. By default, Ubuntu does not allow access through the web browser to any file apart of those located in /var/www,
 public_html directories (when enabled) and /usr/share (for web applications).
