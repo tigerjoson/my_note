@@ -1,0 +1,4 @@
+show tables;
+show databases;
+create;
+~/check_diff/103年各職類別初任人員經常性薪資－按行業別分.csv
