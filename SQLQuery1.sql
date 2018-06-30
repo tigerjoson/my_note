@@ -9,4 +9,5 @@ create table [Su3](
 --can not just create table
 go
  */
-select *  from [dbo].[u1_new]
+ use [ELogisticDb]
+select *  from [dbo].[ChannelSettings]
