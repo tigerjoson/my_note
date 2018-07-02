@@ -9,5 +9,14 @@ create table [Su3](
 --can not just create table
 go
  */
+
+	--列出所有資料表(Table)
+ /*
+	USE YourDBName
+	GO 
+	SELECT *
+	FROM sys.Tables
+	GO 
+ */
  use [ELogisticDb]
 select *  from [dbo].[ChannelSettings]
