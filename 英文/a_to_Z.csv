@@ -1,4 +1,3 @@
-﻿英文,中文
 about,週圍
 abrupt,突然的；意外的
 abscissa,橫坐標
@@ -6,6 +5,7 @@ abuse,濫用
 acceptance,驗收
 accomplishment,成就
 accused of,被指控犯罪
+addict,使沉溺;使成癮
 adequately,充分地
 adjacent,鄰接的；前後相接的
 adolescent,青少年
@@ -23,13 +23,12 @@ altercation,爭吵
 amenable,適合
 amid,際
 anecdote,軼事
-angst,焦慮
+angst,焦慮,不安
 annual,全年
 annulus,環
 anonymity,匿名
 appointees,被任命者
 ardently,熱烈地
-are at stake,受到威脅
 arena,競技場
 ascertain,查明
 assault,突(攻)擊
@@ -45,6 +44,7 @@ banner,旗幟
 barrage,彈幕
 be accused of,被指控
 be acting up,正在採取行動
+be at stake,受到威脅
 be charged with,被控告
 be sentenced to;(被)宣判；判決,
 be stabbed to,被刺傷
@@ -53,7 +53,7 @@ bipartisan,兩黨
 blame,責備
 bloat,脹
 bolster,加強
-boosts,提升
+boost,提升
 booth,亭
 bottom,底部
 brass,黃銅
@@ -64,7 +64,7 @@ browse,瀏覽
 budget, 預算
 bump,磕碰
 burden,負擔;痲煩
-buried,隱藏
+buried(bury),隱藏
 button,按鍵
 bystander,旁觀者
 campaign,運動
@@ -90,6 +90,7 @@ consecutive,連續
 consent,同意
 constituent,組分
 constructive,建設性
+consult,與……商量;請教
 consulting,諮詢
 contests,競賽
 contracts,合同
@@ -191,8 +192,6 @@ hilarious,歡鬧的
 hold up,耽誤
 imperative,迫切
 implications,啟示
-in matter of,在...方面
-in place of,代替
 indicate,表明
 indictment,起訴書
 individual,個人
@@ -201,6 +200,8 @@ infant,嬰兒
 infer,推斷
 inform,通知、告知
 informal,非正式的，非正規的
+in matter of,在...方面
+in place of,代替
 insisted on,堅持
 intense,激烈
 interdisciplinary,跨學科
@@ -219,6 +220,7 @@ legislative,立法
 lethal,致命
 liberal,自由主義的
 lingerie,女用貼身內衣褲
+literary,文;文學的
 lower-middle class,中下階層
 mainstays,支柱
 malfunctioned,發生故障
@@ -292,6 +294,7 @@ protester,抗議者
 pupil,小學生
 put to use,使用
 quarantine,隔離
+quotation,引用;引證
 racism,種族主義
 ran counter to,反對
 rationale,合理
@@ -315,6 +318,7 @@ reportedly,據說
 reprehensible,應受譴責
 residents,居民
 residual,殘留
+resiliency,彈性；恢復力
 resolution,決議
 resort,度假區
 rest,休息
@@ -342,8 +346,8 @@ spike,穗
 spoiled,壞
 squander,揮霍
 stadium,體育場
-stand to,站在
 stand-alone,獨立
+stand to,站在
 stark,鮮明
 steep,浸泡；浸透
 stemming,詞幹
@@ -364,8 +368,8 @@ sympathy,同情
 taboos,禁忌
 tactics,策略
 tailored to,量身定做
-take up,繼續
 taken it upon,採取了它
+take up,繼續
 tales,故事
 territory,領土
 terrorists,恐怖分子
@@ -404,3 +408,4 @@ willingness,願意
 wither,枯萎
 withering,萎凋
 yet,然而
+英文,中文
